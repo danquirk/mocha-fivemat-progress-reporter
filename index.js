@@ -1,1 +1,1 @@
-module.exports = require('./lib/fivemat');
+module.exports = require('./lib/fivemat_progress');
