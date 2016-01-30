@@ -1,6 +1,6 @@
 {
   "name": "mocha-fivemat-progress-reporter",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "A mocha test reporter based on fivemat and the built in progress reporter",
   "main": "index.js",
   "scripts": {
